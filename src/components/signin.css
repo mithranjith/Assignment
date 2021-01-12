@@ -1,0 +1,19 @@
+.filed-style.form-control{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 14px;
+    color: #000000;
+    background-color: #f7f7f7;
+    width:230px;
+    padding: 10px;
+    border: none;
+}
+
+.field-container{
+    margin:16px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
